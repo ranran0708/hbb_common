@@ -107,7 +107,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["www.yuexinggy.com"];
-pub const RS_PUB_KEY: &str = "ECkKYEomjNS3+hjvHsUxSAPE2iArKnZyy7GwARQ8Fcc=";
+pub const RS_PUB_KEY: &str = "HamZg77DvWYs8JC1v6sAa2nSKRoGaXTGgkdtSZYfV1Q=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
